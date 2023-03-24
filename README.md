@@ -16,3 +16,6 @@
 - toutch para criar um novo arquivo
 - mkdir para criar um novo diretório
 - ls -la para listar tudo que esta em um diretório
+- chmod a+rwx nome (Modifica as permissões de um diretório ou user)
+- chown user.user * modifica o nome do user que criou a arvore de arquivos
+
