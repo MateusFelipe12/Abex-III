@@ -11,7 +11,7 @@
 
 
 
-### COmandos de terminal linux
+### Comandos de terminal linux
 - cp para copiar um arquivo ou diretório, sendo o primeiro parametro o arquivo a ser copiado, e o segundo o local para receber a cópia
 - toutch para criar um novo arquivo
 - mkdir para criar um novo diretório
